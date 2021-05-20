@@ -1,11 +1,8 @@
-100-Days-Of-SwiftUI-
-The 100 Days of SwiftUI is a free collection of videos, tutorials, tests, and more to help you learn Swift faster.
+WeSplit
 
-Link address official address: https://www.hackingwithswift.com/100/swiftui;
+This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave.
 
-Welcome to the 100 Days of SwiftUI! This is a free collection of videos, tutorials, tests, and more, all drawn from around my work here on Hacking with Swift, and all designed to help you learn SwiftUI effectively.
-
-It’s aimed squarely at beginners who want to learn to build real iOS apps, but struggle to find a good, free course that can help them achieve their goals. If that’s you, welcome – I hope you’re ready to show the iOS world what you’re made of!
+<img src ="https://github.com/danielgx11/100-Days-Of-SwiftUI-/blob/develop/WeSplit/Screenshots/weSplit.png" width="400" height="790"> <img src ="https://github.com/danielgx11/100-Days-Of-SwiftUI-/blob/develop/WeSplit/Screenshots/weSplitCalculator.png" width="400" height="790">
 
 Credits: https://www.hackingwithswift.com/ -> Paul Hudson.
 
